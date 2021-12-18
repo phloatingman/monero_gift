@@ -1,4 +1,4 @@
-Monero Gift is a printable template for people that want to easily give Monero away.
+Monero Gift is a printable template for people that want to easily give Monero away as a present.
 
 Here's the printable PDF: https://github.com/phloatingman/monero_gift/raw/main/Monero%20Gift.pdf
 
